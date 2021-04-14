@@ -19,8 +19,7 @@ HOW TO RUN THE APP VIA GITHUB
 
 HOW TO RUN THE APP VIA R STUDIO
 
-1) extract the zipped folder into your working directory. You can file the .rar file in the branch 
-   AlessandroMirone/DS-Projects/tree/AlessandroMirone-app-1-rar 
+1) extract the zipped folder into your working directory. You can file the .rar file in the "app.r" folder
    (if you don't know what your working directory is, run the command getwd() in an empty r script)
    you should have an unzipped folder named "app-1", containing 
    an R file named App.1 and two folder, named "data" and "www".
@@ -42,6 +41,9 @@ DO NOT rename the files inside app-1. (app-1 can be renamed, but if you do
 
 5) copypaste runApp('app-1') into your script and execute. To see the code while using the app, 
    copypaste runApp('app-1', display.mode = 'showcase') instead of the first command and execute.
+   OR
+   copypaste the code inside App.r (the .R file within the app-1 folder you have downloaded) into the 
+   R script and execute it/hit the button "run app" in the top right corner of your source panel. 
 
 PLEASE note that this application is just a practical exercise to get familiar with shinyapp. 
 While it can still be useful to some scope and provide certain information, it is not a refined model. 
