@@ -19,8 +19,7 @@ HOW TO RUN THE APP VIA GITHUB
 
 HOW TO RUN THE APP VIA R STUDIO
 
-1) extract the zipped folder into your working directory. 
-(if you don't know what your working directory is, run the command getwd() in an empty r script)
+1) extract the zipped folder into your working directory. You can file the .rar file in the branch https://github.com/AlessandroMirone/DS-Projects/tree/AlessandroMirone-app-1-rar . (if you don't know what your working directory is, run the command getwd() in an empty r script)
    you should have an unzipped folder named "app-1", containing 
    an R file named App.1 and two folder, named "data" and "www".
 
