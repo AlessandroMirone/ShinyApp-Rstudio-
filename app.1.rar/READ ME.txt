@@ -1,0 +1,52 @@
+This readme file will show you how to use the "app-1" application for viewing Italy's level of broadband access.
+
+The application is very straightforward: you'll find all the informations on how to visualize data in the 
+left panel of the interface. Use the options to toggle visualization's inputs. Please note that the "number of
+observations" widget refers only to the third tab: "table".
+
+there are two ways to launch the app: via github and via R studio. Both require Rstudio to function. 
+
+HOW TO RUN THE APP VIA GITHUB
+
+1) open RStudio. install shiny, ggplot2 and readr packages with the command:
+   install.packages(c("shiny","readr","ggplot2"))
+
+
+2) load the shiny package by copypasting and executing the command: library(shiny) in a new rscript.
+
+3) copypaste and execute the command: runGitHub("DS-Projects","AlessandroMirone", ref = "main")
+
+
+HOW TO RUN THE APP VIA R STUDIO
+
+1) extract the zipped folder into your working directory. You can file the .rar file in the "app.r" folder
+   (if you don't know what your working directory is, run the command getwd() in an empty r script)
+   you should have an unzipped folder named "app-1", containing 
+   an R file named App.1 and two folder, named "data" and "www".
+
+IMPORTANT:   
+DO NOT rename the files inside app-1. (app-1 can be renamed, but if you do
+   be sure to match the folder's new name in runApp('folder's new name')(see below).Rename app-1
+   only if you have another folder in your working directory with the same name as 
+   app-1 and you are unable to change working directory. 
+
+2) open RStudio and set the directory containing app-1 as your working
+   directory with the function setwd() (if you pasted app-1 in your working directory you can skip this
+   passage)
+
+3) install shiny, ggplot2 and readr packages with the command:
+   install.packages(c("shiny","readr","ggplot2"))
+
+4) load the shiny package. To do so, copypaste library(shiny) into your script and execute.
+
+5) copypaste runApp('app-1') into your script and execute. To see the code while using the app, 
+   copypaste runApp('app-1', display.mode = 'showcase') instead of the first command and execute.
+   OR
+   copypaste the code inside App.r (the .R file within the app-1 folder you have downloaded) into the 
+   R script and execute it/hit the button "run app" in the top right corner of your source panel. 
+
+PLEASE note that this application is just a practical exercise to get familiar with shinyapp. 
+While it can still be useful to some scope and provide certain information, it is not a refined model. 
+If you are looking for a place to learn shinyapp, try visit https://shiny.rstudio.com/gallery/
+
+thank you for the attention!
