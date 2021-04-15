@@ -1,0 +1,206 @@
+Region	Year	Coefficient
+Piemonte	2011	62
+Piemonte	2012	61
+Piemonte	2013	67
+Piemonte	2014	73
+Piemonte	2015	75
+Piemonte	2016	80
+Piemonte	2017	82
+Piemonte	2018	86
+Piemonte	2019	85
+Valle d'Aosta	2011	64
+Valle d'Aosta	2012	67
+Valle d'Aosta	2013	68
+Valle d'Aosta	2014	70
+Valle d'Aosta	2015	77
+Valle d'Aosta	2016	77
+Valle d'Aosta	2017	76
+Valle d'Aosta	2018	82
+Valle d'Aosta	2019	86
+Liguria	2011	58
+Liguria	2012	64
+Liguria	2013	66
+Liguria	2014	70
+Liguria	2015	76
+Liguria	2016	79
+Liguria	2017	84
+Liguria	2018	86
+Liguria	2019	86
+Lombardia	2011	67
+Lombardia	2012	68
+Lombardia	2013	72
+Lombardia	2014	77
+Lombardia	2015	78
+Lombardia	2016	84
+Lombardia	2017	84
+Lombardia	2018	88
+Lombardia	2019	88
+Abruzzo	2011	62
+Abruzzo	2012	59
+Abruzzo	2013	69
+Abruzzo	2014	73
+Abruzzo	2015	75
+Abruzzo	2016	79
+Abruzzo	2017	82
+Abruzzo	2018	83
+Abruzzo	2019	85
+Molise	2011	57
+Molise	2012	58
+Molise	2013	61
+Molise	2014	68
+Molise	2015	72
+Molise	2016	74
+Molise	2017	78
+Molise	2018	75
+Molise	2019	80
+Campania	2011	58
+Campania	2012	56
+Campania	2013	62
+Campania	2014	66
+Campania	2015	71
+Campania	2016	72
+Campania	2017	78
+Campania	2018	78
+Campania	2019	80
+Puglia	2011	50
+Puglia	2012	57
+Puglia	2013	62
+Puglia	2014	68
+Puglia	2015	68
+Puglia	2016	72
+Puglia	2017	76
+Puglia	2018	78
+Puglia	2019	79
+Basilicata	2011	52
+Basilicata	2012	51
+Basilicata	2013	67
+Basilicata	2014	64
+Basilicata	2015	69
+Basilicata	2016	72
+Basilicata	2017	75
+Basilicata	2018	79
+Basilicata	2019	80
+Calabria	2011	54
+Calabria	2012	54
+Calabria	2013	60
+Calabria	2014	63
+Calabria	2015	67
+Calabria	2016	69
+Calabria	2017	71
+Calabria	2018	75
+Calabria	2019	77
+Sicilia	2011	52
+Sicilia	2012	55
+Sicilia	2013	59
+Sicilia	2014	64
+Sicilia	2015	67
+Sicilia	2016	70
+Sicilia	2017	75
+Sicilia	2018	76
+Sicilia	2019	78
+Sardegna	2011	62
+Sardegna	2012	64
+Sardegna	2013	70
+Sardegna	2014	76
+Sardegna	2015	75
+Sardegna	2016	80
+Sardegna	2017	80
+Sardegna	2018	87
+Sardegna	2019	85
+Aut. Prov. Bolzano	2011	67
+Aut. Prov. Bolzano	2012	70
+Aut. Prov. Bolzano	2013	76
+Aut. Prov. Bolzano	2014	80
+Aut. Prov. Bolzano	2015	81
+Aut. Prov. Bolzano	2016	79
+Aut. Prov. Bolzano	2017	82
+Aut. Prov. Bolzano	2018	87
+Aut. Prov. Bolzano	2019	88
+Aut. Prov. Trento	2011	67
+Aut. Prov. Trento	2012	68
+Aut. Prov. Trento	2013	71
+Aut. Prov. Trento	2014	77
+Aut. Prov. Trento	2015	81
+Aut. Prov. Trento	2016	82
+Aut. Prov. Trento	2017	83
+Aut. Prov. Trento	2018	89
+Aut. Prov. Trento	2019	92
+Veneto	2011	63
+Veneto	2012	65
+Veneto	2013	75
+Veneto	2014	75
+Veneto	2015	79
+Veneto	2016	82
+Veneto	2017	82
+Veneto	2018	87
+Veneto	2019	89
+Friuli-Venezia Giulia	2011	63
+Friuli-Venezia Giulia	2012	65
+Friuli-Venezia Giulia	2013	72
+Friuli-Venezia Giulia	2014	78
+Friuli-Venezia Giulia	2015	80
+Friuli-Venezia Giulia	2016	81
+Friuli-Venezia Giulia	2017	82
+Friuli-Venezia Giulia	2018	85
+Friuli-Venezia Giulia	2019	88
+Emilia-Romagna	2012	67
+Emilia-Romagna	2013	75
+Emilia-Romagna	2014	79
+Emilia-Romagna	2015	79
+Emilia-Romagna	2016	82
+Emilia-Romagna	2017	84
+Emilia-Romagna	2018	90
+Emilia-Romagna	2019	90
+Toscana	2011	66
+Toscana	2012	64
+Toscana	2013	73
+Toscana	2014	76
+Toscana	2015	76
+Toscana	2016	82
+Toscana	2017	83
+Toscana	2018	87
+Toscana	2019	87
+Umbria	2011	61
+Umbria	2012	63
+Umbria	2013	73
+Umbria	2014	72
+Umbria	2015	78
+Umbria	2016	79
+Umbria	2017	80
+Umbria	2018	85
+Umbria	2019	86
+Marche	2012	67
+Marche	2013	73
+Marche	2014	75
+Marche	2015	79
+Marche	2016	80
+Marche	2017	85
+Marche	2018	88
+Marche	2019	87
+Lazio	2011	66
+Lazio	2012	67
+Lazio	2013	73
+Lazio	2014	74
+Lazio	2015	79
+Lazio	2016	81
+Lazio	2017	82
+Lazio	2018	87
+Lazio	2019	88
+Euro Area	2011	74
+Euro Area	2012	76
+Euro Area	2013	79
+Euro Area	2014	81
+Euro Area	2015	83
+Euro Area	2016	85
+Euro Area	2017	87
+Euro Area	2018	89
+Euro Area	2019	90
+Italy	2011	62
+Italy	2012	63
+Italy	2013	69
+Italy	2014	73
+Italy	2015	75
+Italy	2016	79
+Italy	2017	81
+Italy	2018	84
+Italy	2019	85
