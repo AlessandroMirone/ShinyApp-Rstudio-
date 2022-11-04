@@ -14,7 +14,7 @@ HOW TO RUN THE APP VIA GITHUB
 
 2) load the shiny package by copypasting and executing the command: library(shiny) in a new rscript.
 
-3) copypaste and execute the command: runGitHub("DS-Projects","AlessandroMirone", ref = "main")
+3) copypaste and execute the command: runGitHub("ShinyApp-Rstudio-","AlessandroMirone", ref = "main")
 
 
 HOW TO RUN THE APP VIA R STUDIO
